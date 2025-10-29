@@ -1,4 +1,4 @@
-#Cuadernos de Jupyter
+# Cuadernos de Jupyter
 
 ## **Práctica 01** - Conceptos básicos de trazado de rayos y cálculo de la matriz de esparcimiento. 
 
